@@ -36,10 +36,12 @@ header {
 
 #column-1 {
   background: yellow;
+  
 }
 
 #column-2 {
   background: yellow;
+  
 }
 
 #column-3 {
@@ -67,18 +69,22 @@ footer {
 
   #column-1 {
     background-color: green;
+    width: 50%;
   }
 
   #column-2 {
     background-color: green ;
+    width: 50%;
   }
 
   #column-3 {
     background-color: green;
+    width: 50%;
   }
 
   footer {
     background-color: green;
+    width: 100%;
   }
   
 }
@@ -93,18 +99,23 @@ footer {
 
   #column-1 {
     background-color: skyblue;
+    width: 33%;
+    
   }
 
   #column-2 {
     background-color: skyblue;
+    width: 34%;
   }
 
   #column-3 {
     background-color: skyblue;
+    width: 33%;
   }
 
   footer {
     background-color: skyblue;
+    width: 100%;
   }
    
 }
